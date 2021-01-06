@@ -1,0 +1,6 @@
+package loteria;
+
+public class Primitiva {
+	//atributos.
+	Integer[] resultados;
+}

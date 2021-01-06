@@ -1,0 +1,10 @@
+package loteria;
+
+public class Primitiva {
+	//atributos.
+	private Integer[] resultados;
+	//constructor
+	public Primitiva(Integer limite, Integer limiteNumerico) {
+		
+	}
+}

@@ -1,0 +1,14 @@
+package PI;
+
+public class CalcPi {
+	private Integer numerodelados;
+	private Integer numerodelados;
+	public void setIterator(Integer iterator) {
+		numerodelados = n;
+	}
+	public double calcularlado() {
+		
+		
+		return 0.0;
+	}
+}

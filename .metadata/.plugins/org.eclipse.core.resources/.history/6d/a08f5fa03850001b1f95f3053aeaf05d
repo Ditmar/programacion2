@@ -1,0 +1,13 @@
+
+public class main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		StringBuilder cad = new StringBuilder("Para el resto de números reales, esta representación puede ampliarse todavía más utilizando infinitas cifras decimales periódicas y no periódicas, de forma que también suele conocerse «informalmente» como número decimal a cualquier número real escrito así, sobre todo en los primeros cursos d");
+		System.out.println("LEN " + cad.length() );
+		System.out.println("LEN " + cad.indexOf(",") );
+		System.out.println( cad.substring(cad.indexOf("esta"), cad.lastIndexOf(str)(",")));
+		
+	}
+
+}

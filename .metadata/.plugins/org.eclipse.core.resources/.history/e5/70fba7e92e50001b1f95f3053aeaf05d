@@ -1,0 +1,18 @@
+package ejemplo1;
+
+import loteria.Primitiva;
+
+public class main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Primitiva loteria = new Primitiva(30, 100);
+		loteria.generar();
+		loteria.ordenar();
+		Integer[] resultados =  loteria.getResult();
+		for (Integer i = 0; i < resultados.length; i++) {
+			System.out.print(resultados[i] + ",");
+		}
+	}
+
+}

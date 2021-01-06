@@ -1,0 +1,11 @@
+package PI;
+
+public class CalcPi {
+	private Integer numerodelados;
+	public CalcPi(Integer n) {
+		numerodelados = n;
+	}
+	public double calcularlado() {
+		
+	}
+}

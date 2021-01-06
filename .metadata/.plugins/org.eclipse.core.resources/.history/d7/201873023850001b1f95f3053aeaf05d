@@ -1,0 +1,12 @@
+
+public class main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		StringBuilder cad = new StringBuilder("Esto es una cadena");
+		System.out.print("LEN " + cad.length() );
+		System.out.print("LEN " + cad.indexOf("es") );
+		
+	}
+
+}

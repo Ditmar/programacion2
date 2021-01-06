@@ -1,0 +1,15 @@
+package PI;
+
+public class CalcPi {
+	private Integer numerodelados;
+	private Integer iteracion;
+	public void setIterator(Integer iteracion) {
+		this.iteracion = iteracion;
+		numerodelados = Math.pow(2.0, b);
+	}
+	public double calcularlado() {
+		
+		
+		return 0.0;
+	}
+}
